@@ -1,7 +1,4 @@
-import { Button } from "@/components/ui/Button";
-import Image from "next/image";
 import Hero from "@/components/sections/Hero";
-import About from "@/components/sections/About";
 import Gallery from "@/components/sections/Gallery";
 import Contact from "@/components/sections/Contact";
 import NavBar from "@/components/ui/NavBar";
